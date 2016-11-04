@@ -5,7 +5,7 @@ Projeto para disciplina de Introdução à Ciência dos Dados (PCS5031) na Escol
 
 #### Índice
 1. [Introdução](#introdução)
-2. [Papéis e Responsabilidades](#papéis-e-Responsabilidades)
+2. [Papéis e Responsabilidades](#papéis-e-responsabilidades)
 3. [Metodologia](#metodologia)
 4. [Utilização](#utilização)
 5. [Autores](#autores)
